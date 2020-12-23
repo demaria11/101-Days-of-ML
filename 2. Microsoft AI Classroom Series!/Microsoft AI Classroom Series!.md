@@ -170,11 +170,16 @@ https://github.com/MicrosoftDocs/ai-fundamentals
 
 GoDo's links
 
-Microsoft Learn AI Fundamentals Exercises https://github.com/MicrosoftDocs/ai-fundamentals Intelligent Kiosk Sample prthttps://github.com/microsoft/MOCive-Samples-IntelligentKiosk
+1. Microsoft Learn AI Fundamentals Exercises[https://github.com/MicrosoftDocs/ai-fundamentals] 
+2. Intelligent Kiosk Sample prt[https://github.com/microsoft/MOCive-Samples-IntelligentKiosk]
 
 Please send godo link
 
-http://bit.ly/godoDay2https://gallery.azure.ai/ http://bit.ly/godoDay3http://bit.ly/labsgithubhttp://aka.ms/datascience-learningpath Microsoft Learn AI Fundamentals Exercises https://github.com/MicrosoftDocs/ai-fundamentals Intelligent Kiosk Sample prthttps://github.com/microsoft/MOCive-Samples-IntelligentKiosk
+1. http://bit.ly/godoDay2
+2. https://gallery.azure.ai/ 
+3. http://bit.ly/godoDay3
+4. http://bit.ly/labsgithub
+5. http://aka.ms/datascience-learningpath Microsoft Learn AI Fundamentals Exercises https://github.com/MicrosoftDocs/ai-fundamentals Intelligent Kiosk Sample prthttps://github.com/microsoft/MOCive-Samples-IntelligentKiosk
 
 Is Microsoft learn free?
 
