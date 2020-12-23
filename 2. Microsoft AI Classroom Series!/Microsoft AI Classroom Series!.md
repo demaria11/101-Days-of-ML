@@ -145,7 +145,12 @@ Yes, https://github.com/microsoft/AI#ai100
 
 Useful Links:
 
-https://github.com/MicrosoftDocs/ai-fundamentalshttps://github.com/microsoft/Cognitive-Samples-IntelligentKioskhttps://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-scorehttps://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-deployhttps://docs.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-mlhttps://docs.microsoft.com/en-us/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0
+1. https://github.com/MicrosoftDocs/ai-fundamentals
+2. https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk
+3. https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-score
+4. https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-deploy
+5. https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml
+6. https://docs.microsoft.com/en-us/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0
 
 Please Send me links for tutorial of q&a maker
 
