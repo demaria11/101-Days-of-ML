@@ -179,11 +179,13 @@ Please send godo link
 2. https://gallery.azure.ai/ 
 3. http://bit.ly/godoDay3
 4. http://bit.ly/labsgithub
-5. http://aka.ms/datascience-learningpath Microsoft Learn AI Fundamentals Exercises https://github.com/MicrosoftDocs/ai-fundamentals Intelligent Kiosk Sample prthttps://github.com/microsoft/MOCive-Samples-IntelligentKiosk
+5. http://aka.ms/datascience-learningpath 
 
+1. Microsoft Learn AI Fundamentals Exercises[https://github.com/MicrosoftDocs/ai-fundamentals] 
+2. Intelligent Kiosk Sample prt[https://github.com/microsoft/MOCive-Samples-IntelligentKiosk]
 Is Microsoft learn free?
 
-YES!!! CHECK IT OUT https://docs.microsoft.com/en-us/learn/browse/
+YES!!! CHECK IT OUT[https://docs.microsoft.com/en-us/learn/browse/]
 
 Will I get an automated mail for the participation certificate or should I go in to a link?
 
