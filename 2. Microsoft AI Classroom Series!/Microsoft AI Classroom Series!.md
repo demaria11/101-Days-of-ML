@@ -181,7 +181,7 @@ Please send godo link
 4. http://bit.ly/labsgithub
 5. http://aka.ms/datascience-learningpath 
 
-1. Microsoft Learn AI Fundamentals Exercises[https://github.com/MicrosoftDocs/ai-fundamentals] 
+1. (Microsoft Learn AI Fundamentals Exercises)[https://github.com/MicrosoftDocs/ai-fundamentals] 
 2. Intelligent Kiosk Sample prt[https://github.com/microsoft/MOCive-Samples-IntelligentKiosk]
 Is Microsoft learn free?
 
