@@ -181,11 +181,11 @@ Please send godo link
 4. http://bit.ly/labsgithub
 5. http://aka.ms/datascience-learningpath 
 
-1. (Microsoft Learn AI Fundamentals Exercises)[https://github.com/MicrosoftDocs/ai-fundamentals] 
-2. Intelligent Kiosk Sample prt[https://github.com/microsoft/MOCive-Samples-IntelligentKiosk]
+1. Microsoft Learn AI Fundamentals Exercises [https://github.com/MicrosoftDocs/ai-fundamentals] 
+2. Intelligent Kiosk Sample prt [https://github.com/microsoft/MOCive-Samples-IntelligentKiosk]
 Is Microsoft learn free?
 
-YES!!! CHECK IT OUT[https://docs.microsoft.com/en-us/learn/browse/]
+YES!!! CHECK IT OUT [https://docs.microsoft.com/en-us/learn/browse/]
 
 Will I get an automated mail for the participation certificate or should I go in to a link?
 
@@ -205,7 +205,13 @@ https://docs.microsoft.com/en-us/learn/modules/how-build-basic-chatbot/
 
 GoDo Links IMPORTANT
 
-GoDo's link Microsoft Learn AI Fundamentals Exercises https://github.com/MicrosoftDocs/ai-fundamentals Intelligent Kiosk Sample prthttps://github.com/microsoft/Cognitive-Samples-IntelligentKiosk Tutorial: Predict automobile price with the designer https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-score Tutorial: Deploy a machine learning model with the designer https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-deploy Tutorial: Create a classification model with automated ML in Azure Machine Learning https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml Create a bot with Azure Bot Service https://docs.microsoft.com/en-us/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0 Some useful links //Download Intelligent Kiosk //https://www.microsoft.com/en-us/p/intelligent-kiosk/9nblggh5qd84?activetab=pivot:overvi
+1. GoDo's link Microsoft Learn AI Fundamentals Exercises [https://github.com/MicrosoftDocs/ai-fundamentals] 
+2. Intelligent Kiosk Sample prt [https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk] 
+3. Tutorial: Predict automobile price with the designer [https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-score] 
+4. Tutorial: Deploy a machine learning model with the designer [https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-deploy] 
+5. Tutorial: Create a classification model with automated ML in Azure Machine Learning [https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml] 
+6. Create a bot with Azure Bot Service [https://docs.microsoft.com/en-us/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0] 
+7. Some useful links //Download Intelligent Kiosk //[https://www.microsoft.com/en-us/p/intelligent-kiosk/9nblggh5qd84?activetab=pivot:overvi]
 
 Is there is any video recording available for this session? If yes, Please share it with us so that we can refer it once again.
 
@@ -219,10 +225,4 @@ Close the event
 
 Thank you for attending. This event is closed now.
 
-ok thankyou
-
-null
-
-When should we use classification over regression?
-
-null
+**ok thankyou**
